@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class questao2 {
+public class questao5 {
     public static void main (String[] args){
         Scanner ler = new Scanner(System.in);
         System.out.println("Informe o número referente ao dia da semana:");
